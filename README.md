@@ -5,7 +5,7 @@ A blog portal
 
 2)Prerequisite is that your IDEs should have maven plugin installed
 
-3)In step 2 is successful then pom.xml have dependencies will download for you
+3)If step 2 is successful then pom.xml have dependencies will download for you
 
 4)The spark-core framework provide the runtime environment(it will download jetty server) 
 
